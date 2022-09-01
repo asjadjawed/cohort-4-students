@@ -1,0 +1,27 @@
+teacher: Asjad Jawed
+no_of_students: 7
+no_of_bad_students: null
+name_of_students: ['hajra', 'hasan', 'ubaid']
+details_of_students:
+    - name: Hajra
+      job: DevOps Engineer
+      skills:
+          - linux
+          - python
+    - name: Hasan
+      job: Software Engineer
+      bugs:
+    - name: ubaid
+      job: CEO
+      company_detail:
+          name: Exxon
+          no_of_employees: 30
+    - name: Amna
+      job: manager
+      supervisor: ['mickey', mouse]
+    - name: usman
+      job: QA
+      experience: 80
+---
+my_garage: asjad's garage
+no_of_cars: 5
