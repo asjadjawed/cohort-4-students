@@ -5,19 +5,23 @@ name_of_students: ['hajra', 'hasan', 'ubaid']
 details_of_students:
     - name: Hajra
       job: DevOps Engineer
+      xp: 4 years
       skills:
           - linux
           - python
     - name: Hasan
       job: Software Engineer
+      xp: 2 years
       bugs:
     - name: ubaid
       job: CEO
+      xp: 5 years
       company_detail:
           name: Exxon
           no_of_employees: 30
     - name: Amna
       job: manager
+      xp: 6 years
       supervisor: ['mickey', mouse]
     - name: usman
       job: QA
