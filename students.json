@@ -5,17 +5,17 @@
   "name_of_students": ["hajra", "hasan", "ubaid"],
   "details_of_students": [
     {
-      "name": "Hajra Rafiq",
+      "name": "Hajra",
       "job": "DevOps Engineer",
       "skills": ["linux", "python"]
     },
     {
-      "name": "Hasan Ansari",
+      "name": "Hasan",
       "job": "Senior Software Engineer",
       "bugs": null
     },
     {
-      "name": "ubaid ullah",
+      "name": "ubaid",
       "job": "CEO",
       "company_detail": {
         "name": "Exxon",
@@ -23,12 +23,12 @@
       }
     },
     {
-      "name": "Amna Rehman",
+      "name": "Amna",
       "job": "manager",
       "supervisor": ["mickey", "mouse"]
     },
     {
-      "name": "usman khan",
+      "name": "usman",
       "job": "QA",
       "experience": 80
     }
