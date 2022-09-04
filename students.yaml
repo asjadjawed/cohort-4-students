@@ -25,7 +25,8 @@ details_of_students:
       supervisor: ['mickey', mouse]
     - name: usman
       job: QA
-      experience: 80
+
+      xp: 2 years
 ---
 my_garage: asjad's garage
 no_of_cars: 5
