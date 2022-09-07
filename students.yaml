@@ -9,7 +9,7 @@ details_of_students:
       skills:
           - linux
           - python
-    - name: Hasan
+    - name: Hasan Islam 
       job: Software Engineer
       xp: 2 years
       bugs:
