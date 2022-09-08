@@ -23,7 +23,7 @@ details_of_students:
       job: manager
       xp: 6 years
       supervisor: ['mickey', mouse]
-    - name: usman
+    - name: usman ali khan
       job: QA
 
       xp: 2 years
