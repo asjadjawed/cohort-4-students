@@ -3,30 +3,32 @@ no_of_students: 7
 no_of_bad_students: null
 name_of_students: ['hajra', 'hasan', 'ubaid']
 details_of_students:
-    - name: Hajra
-      job: DevOps Engineer
-      xp: 4 years
-      skills:
-          - linux
-          - python
-    - name: Hasan Islam 
-      job: Software Engineer
-      xp: 2 years
-      bugs:
-    - name: ubaid
-      job: CEO
-      xp: 5 years
-      company_detail:
-          name: Exxon
-          no_of_employees: 30
-    - name: Amna
-      job: manager
-      xp: 6 years
-      supervisor: ['mickey', mouse]
-    - name: usman ali khan
-      job: QA
-
-      xp: 2 years
+  - name: Hajra
+    job: DevOps Engineer
+    xp: 4 years
+    skills:
+      - linux
+      - python
+  - name: Hasan Islam
+    job: Software Engineer
+    xp: 2 years
+    bugs:
+  - name: ubaid
+    job: CEO
+    xp: 5 years
+    company_detail:
+      name: Exxon
+      no_of_employees: 30
+  - name: Amna
+    job: manager
+    xp: 6 years
+    supervisor: ['mickey', mouse]
+  - name: usman ali khan
+    job: QA
+    xp: 2 years
+  - name: Raja Munir
+    job: Engineer
+    xp: 5 years
 ---
 my_garage: asjad's garage
 no_of_cars: 5
