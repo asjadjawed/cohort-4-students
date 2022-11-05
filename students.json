@@ -2,7 +2,7 @@
   "teacher": "Asjad Jawed",
   "no_of_students": 7,
   "no_of_bad_students": null,
-  "name_of_students": ["hajra", "hasan", "ubaid"],
+  "name_of_students": ["hajra", "hasan", "ubaid", "laveezah"],
   "details_of_students": [
     {
       "name": "Hajra",
@@ -31,6 +31,11 @@
       "name": "usman",
       "job": "QA",
       "experience": 80
+    },
+    {
+      "name": "Laveezah",
+      "job": "DevOps Engineer",
+      "experience": 3
     }
   ]
 }
